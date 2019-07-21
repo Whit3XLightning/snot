@@ -1,0 +1,22 @@
+{
+  "name": "snot",
+  "version": "1.0.0",
+  "description": "Discord bot used to log and copy all text messages sent within the bot(s) eyes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rat",
+    "copy",
+    "discord",
+    "bot"
+  ],
+  "author": "Whit3Xlightning",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.6.8",
+    "discord.js": "^11.5.1",
+    "node.js": "0.0.0"
+  }
+}
